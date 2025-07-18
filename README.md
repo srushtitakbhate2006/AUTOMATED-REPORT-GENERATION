@@ -112,5 +112,4 @@ Srushti Takbhate
 
 #OUTPUT
 
-
-
+![Image](https://github.com/user-attachments/assets/75cfb57c-9a00-4848-b745-94f2933a1a9d)
