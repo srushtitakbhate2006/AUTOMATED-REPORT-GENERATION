@@ -12,7 +12,7 @@
 
 *MENTOR*: NEELA SANTHOSH
 
-# 📄 Automated Report Generation
+ # 📄 Automated Report Generation
 
 This project demonstrates how to automatically generate a formatted PDF report from a dataset using Python. The script reads data from a CSV file, performs basic statistical analysis, and creates a clear, professional report using the fpdf library.
 
@@ -36,7 +36,7 @@ This project demonstrates how to automatically generate a formatted PDF report f
 
 Install dependencies using:
 
-```bash
+bash
 pip install pandas fpdf
 
 
@@ -100,6 +100,7 @@ Calculated statistics (Average, Max, Min)
 ---
 
 📃 License
+
 This project is open-source and available under the MIT License.
 
 
@@ -111,5 +112,5 @@ Srushti Takbhate
 
 #OUTPUT
 
-![Image](https://github.com/user-attachments/assets/8098b58c-1ec0-4b2d-bf10-97a14cac1c9c)
+
 
